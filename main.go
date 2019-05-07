@@ -1,9 +1,9 @@
-// Package suze includes contents for representing
+// Package size includes contents for representing
 // sizes.
 //
 // Usage:
 //   var storageSize = 10 * MB
-package suze
+package size
 
 // Size is type for storage size
 type Size int64
